@@ -1,17 +1,26 @@
 body {
-  background-color: #fefae0;
-  margin-left: 15%;
-  margin-right: 15%;
+    font-size: 100%;
+    background-color: #e9f5db;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 h1 {
-  color: #000000;
+    font-size: 2.5em;
+    color: #718355;
 }
-h2 {
+h4 {
+    font-size: 1.75em;
     padding-top: 15px;
-    color: #d4a373;
+    color: #97a97c;
 }
 p {
-  color: #0b090a;
-  padding-left: 5%;
-  padding-right: 5%;
+    font-size: 1.2em;
+    color: #132a13;
+}
+ul {
+    font-size: 1.2em;
+    color: #132a13;
+}
+table, th, td {
+    border: 1px solid black;
 }
