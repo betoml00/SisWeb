@@ -1,0 +1,17 @@
+body {
+  background-color: #fefae0;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+h1 {
+  color: #2d3318;
+}
+h2 {
+    padding-top: 15px;
+    color: #d4a373;
+}
+p {
+  color: #0b090a;
+  padding-left: 5%;
+  padding-right: 5%;
+}
